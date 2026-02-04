@@ -1,0 +1,11 @@
+base_rate_init: 0.0001
+inj_SI_init: -2.0
+learning_rate: 0.05
+omori_c_init: 10.0
+omori_p_init: 1.08
+productivity_alpha_init: 1.0
+productivity_k_init: 0.0073
+report_params: true
+trail_c_init: 10.0
+trail_k_init: 0.01
+trail_p_init: 2.08

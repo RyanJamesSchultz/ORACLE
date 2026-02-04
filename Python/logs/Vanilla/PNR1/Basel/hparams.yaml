@@ -1,0 +1,14 @@
+decoder_type: FCN
+dropout_prob: 0.2
+encoder_type: GRU
+history_size: 8
+input_injection: true
+input_magnitude: true
+learning_decay_rate: 0.25
+learning_rate: 0.01
+log_tau_mean: 0.0
+log_tau_std: 2.0
+mag_mean: 0.0
+num_dist_components: 32
+supplementary_mark_list: []
+train_to_forecast: true
