@@ -6,7 +6,7 @@ i=1;
 
 % Basel.
 T(i).Name='Basel';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/Basel.mat';
+T(i).Filename='data/Basel.mat';
 T(i).Mc=+0.9;
 T(i).dMb=0.1;
 T(i).dMd=0.0;
@@ -21,7 +21,7 @@ i=i+1;
 
 % KTB.
 T(i).Name='KTB';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/KTB.mat';
+T(i).Filename='data/KTB.mat';
 T(i).Mc=-0.6;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -36,7 +36,7 @@ i=i+1;
 
 % Gross Schoenbeck.
 T(i).Name='GS';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/GS.mat';
+T(i).Filename='data/GS.mat';
 T(i).Mc=-1.3;
 T(i).dMb=0.2;
 T(i).dMd=0.1;
@@ -48,7 +48,7 @@ i=i+1;
 
 % SSFS-1993.
 T(i).Name='SSFS93';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/SSFS1993.mat';
+T(i).Filename='data/SSFS1993.mat';
 T(i).Mc=-1.5;
 T(i).dMb=0.1;
 T(i).dMd=0.00;
@@ -60,7 +60,7 @@ i=i+1;
 
 % SSFS-2000.
 T(i).Name='SSFS00';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/SSFS2000.mat';
+T(i).Filename='data/SSFS2000.mat';
 T(i).Mc=-0.5;
 T(i).dMb=0.2;
 T(i).dMd=0.2;
@@ -72,7 +72,7 @@ i=i+1;
 
 % SSFS-2003.
 T(i).Name='SSFS03';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/SSFS2003.mat';
+T(i).Filename='data/SSFS2003.mat';
 T(i).Mc=+0.1;
 T(i).dMb=0.2;
 T(i).dMd=0.2;
@@ -84,7 +84,7 @@ i=i+1;
 
 % SSFS-2004.
 T(i).Name='SSFS04';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/SSFS2004.mat';
+T(i).Filename='data/SSFS2004.mat';
 T(i).Mc=-0.8;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -96,7 +96,7 @@ i=i+1;
 
 % SSFS-2005.
 T(i).Name='SSFS05';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/SSFS2005.mat';
+T(i).Filename='data/SSFS2005.mat';
 T(i).Mc=-0.2;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -111,7 +111,7 @@ i=i+1;
 
 % Cooper Basin - HAB1a.
 T(i).Name='CB1a';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/CB_HAB1a.mat';
+T(i).Filename='data/CB_HAB1a.mat';
 T(i).Mc=-0.4;
 T(i).dMb=0.1;
 T(i).dMd=0.2;
@@ -123,7 +123,7 @@ i=i+1;
 
 % Cooper Basin - HAB1b.
 T(i).Name='CB1b';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/CB_HAB1b.mat';
+T(i).Filename='data/CB_HAB1b.mat';
 T(i).Mc=-0.2;
 T(i).dMb=0.1;
 T(i).dMd=0.0;
@@ -135,7 +135,7 @@ i=i+1;
 
 % Cooper Basin - HAB4.
 T(i).Name='CB4';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/CB_HAB4.mat';
+T(i).Filename='data/CB_HAB4.mat';
 T(i).Mc=+0.9;
 T(i).dMb=0.3;
 T(i).dMd=0.1;
@@ -147,7 +147,7 @@ i=i+1;
 
 % Paralana.
 T(i).Name='Paralana';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/Paralana.mat';
+T(i).Filename='data/Paralana.mat';
 T(i).Mc=+0.3;
 T(i).dMb=0.3;
 T(i).dMd=0.1;
@@ -159,7 +159,7 @@ i=i+1;
 
 % Helsinki St1 2018.
 T(i).Name='St1-2018';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/St1-2018.mat';
+T(i).Filename='data/St1-2018.mat';
 T(i).Mc=0.0;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -175,7 +175,7 @@ i=i+1;
 
 % Helsinki St1 2020.
 T(i).Name='St1-2020';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/St1-2020.mat';
+T(i).Filename='data/St1-2020.mat';
 T(i).Mc=-1.3;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -187,7 +187,7 @@ i=i+1;
 
 % Utah-FORGE 2022.
 T(i).Name='FORGE-S1';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/FORGE2022.mat';
+T(i).Filename='data/FORGE2022.mat';
 T(i).Mc=-1.3;
 T(i).dMb=0.1;
 T(i).dMd=0.0;
@@ -201,7 +201,7 @@ i=i+1;
 
 % Utah-FORGE 2022.
 T(i).Name='FORGE-S2';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/FORGE2022.mat';
+T(i).Filename='data/FORGE2022.mat';
 T(i).Mc=-1.3;
 T(i).dMb=0.1;
 T(i).dMd=0.0;
@@ -215,7 +215,7 @@ i=i+1;
 
 % Utah-FORGE 2022.
 T(i).Name='FORGE-S3';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/FORGE2022.mat';
+T(i).Filename='data/FORGE2022.mat';
 T(i).Mc=-1.3;
 T(i).dMb=0.1;
 T(i).dMd=0.0;
@@ -229,7 +229,7 @@ i=i+1;
 
 % UK-PNR1z.
 T(i).Name='PNR1z';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR1z.mat';
+T(i).Filename='data/PNR1z.mat';
 T(i).Mc=-0.8;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -264,7 +264,7 @@ i=i+1;
 
 % UK-PNR1z.
 T(i).Name='PNR1z-a';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR1z.mat';
+T(i).Filename='data/PNR1z.mat';
 T(i).Mc=-0.8;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -299,7 +299,7 @@ i=i+1;
 
 % UK-PNR1z.
 T(i).Name='PNR1z-b';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR1z.mat';
+T(i).Filename='data/PNR1z.mat';
 T(i).Mc=-0.8;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -334,7 +334,7 @@ i=i+1;
 
 % UK-PNR1z.
 T(i).Name='PNR1z-c';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR1z.mat';
+T(i).Filename='data/PNR1z.mat';
 T(i).Mc=-0.8;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -369,7 +369,7 @@ i=i+1;
 
 % UK-PNR2.
 T(i).Name='PNR2-cWa';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR2.mat';
+T(i).Filename='data/PNR2.mat';
 T(i).Mc=-1.0;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -387,7 +387,7 @@ i=i+1;
 
 % UK-PNR2.
 T(i).Name='PNR2-cWb';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR2.mat';
+T(i).Filename='data/PNR2.mat';
 T(i).Mc=-1.0;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
@@ -405,7 +405,7 @@ i=i+1;
 
 % UK-PNR2.
 T(i).Name='PNR2-cE';
-T(i).Filename='/Users/rschultz/Desktop/papers/old/Trailing/IS-bath/data/processed/PNR2.mat';
+T(i).Filename='data/PNR2.mat';
 T(i).Mc=-1.0;
 T(i).dMb=0.1;
 T(i).dMd=0.1;
