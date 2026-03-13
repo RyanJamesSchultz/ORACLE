@@ -5,8 +5,8 @@ References:
 
             R. Schultz, & S. Wiemer (2026)
             Forecasting the rate of induced seismicity as a neural temporal point process
-            Journal of Geophysical Research: Machine Learning & Computation, xx, XXX.
-            doi: xxx.
+            Journal of Geophysical Research: Machine Learning & Computation, 3(1), e2025JH001052.
+            doi: 10.1029/2025JH001052.
 
             K. Dascher‐Cousineau, O. Shchur, E.E. Brodsky, & S. Günnemann (2023). 
             Using deep learning for flexible and scalable earthquake forecasting.
